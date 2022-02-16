@@ -8,6 +8,7 @@
 <p>Run php artisan serve</p>
 <p>Go to http://localhost:8000/</p>
 
+Api file is {path_to_project_root}/routes/api.php
 File with commands will be saved to {path_to_project_root}/storage/app
 
 End point http://127.0.0.1:8000/api/task
